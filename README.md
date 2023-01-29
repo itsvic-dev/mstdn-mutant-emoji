@@ -7,6 +7,8 @@ To use it, run `main.py` and follow the instructions. Make sure you have install
 pip install -r requirements.txt
 ```
 
+You should download [the Mastodon package](https://mutant.tech/dl/2022.12/mtnt_2022.12_masto.zip) of the emoji set, and unzip it into `mtnt_2022.12_masto`. The script *will* yell at you otherwise.
+
 If you fuck up during the configuration, you can remove the `.config.json` file the script creates.
 
 **You can get your session ID by opening your cookies.**
